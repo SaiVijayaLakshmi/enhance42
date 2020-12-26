@@ -1,3 +1,4 @@
 # Competitive Training
 
-New web page to understand git and github
+New web page to understand git and github  
+Hello
