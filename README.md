@@ -1,4 +1,8 @@
 # Competitive Training
 
 New web page to understand git and github  
-Hello
+Hello  
+Python image
+![pythonimg.jpg]  
+Python features
+![python1.jpg]
