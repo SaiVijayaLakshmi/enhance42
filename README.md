@@ -1,9 +1,11 @@
 # Competitive Training
 
 New web page to understand git and github  
+
 Hello  
+
 Python image
-![pythonimg.jpg]  
+![python image](pythonimg.jpg)  
 Python features
-![python1.jpg]  
-second.md
+![Python features](python1.jpg)  
+[Second page2](second.md)
